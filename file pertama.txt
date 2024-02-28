@@ -7,4 +7,5 @@ Kumpulan materi MSIB 6
 - mysql database
 - rest api
 - consum api
+- belajar bersama
 //git add untuk menambahkan file
