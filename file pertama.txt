@@ -1,0 +1,10 @@
+Kumpulan materi MSIB 6
+- html
+- github
+- ui/ux
+- javascript
+- php
+- mysql database
+- rest api
+- consum api
+//git add untuk menambahkan file
